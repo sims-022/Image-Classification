@@ -1,1 +1,1 @@
-# Image-Classification
+# Classification of flower using Python
